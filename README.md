@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Application Fullstack : Angular 19, Node.js 22 et Java 21
 
 <img src="./ui/ganatan-about-github.png" align="right" width="140" height="140" alt="logo ganatan">
@@ -249,3 +250,6 @@ docker run -d -p 8080:8080 ganatan/backend-typescript
 
 - 🇫🇷 [Tutoriels en français](https://www.ganatan.com/tutorials)  
 - 🇬🇧 [Tutorials in English](https://www.ganatan.com/en/tutorials)
+=======
+# angular_apache
+>>>>>>> 207bc73a01420a2b18123d7e31214535c92ba223
